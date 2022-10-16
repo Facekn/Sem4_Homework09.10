@@ -1,7 +1,7 @@
 ﻿void PrintArray (double[] array)
 {
    for (int i = 0; i < array.Length; i++)
-    Console.Write($"{array[i]} ");
+    Console.Write($"{array[i]}  ");
 }
 double [] array = {0.34, 8.56, 4.32, -9.47, 3.25};
 double max = array[0];
